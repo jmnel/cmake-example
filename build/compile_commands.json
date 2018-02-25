@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/jacques/repos/cmake-example/build/tutorial0",
-  "command": "/usr/bin/ccache  /usr/bin/clang++    -pedantic -O2 -Wall -Werror=return-type -Wextra -Wmissing-field-initializers  -g   -std=gnu++1z -o CMakeFiles/tutorial0.dir/Main.cpp.o -c /home/jacques/repos/cmake-example/src/tutorial0/Main.cpp",
-  "file": "/home/jacques/repos/cmake-example/src/tutorial0/Main.cpp"
-}
-]
