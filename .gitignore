@@ -1,0 +1,10 @@
+# This file is used to exclude files for being added by git's version tacking. We don't want binary
+# files and cmake's files to end up in the git repo.
+
+./bin/*
+./build/CMakeCache.txt
+./build/CmakeFiles
+./build/cmake_install.cmake
+./build/compile_commands.json
+./build/Makefile
+./build/tutorial0
