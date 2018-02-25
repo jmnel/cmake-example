@@ -7,16 +7,27 @@ that is starting to learn to setup cmake to build C++ projects.
 A simple project directory could look something like this:
 
 +--bin
+
 |   |
+
 |   +--Debug
+
 |   +--Release
+
 |
+
 +--build
+
 |
+
 +--doc
+
 |
+
 +--src
+
     |
+
     +--target0
 
 To build this project. Create a folder named 'build' in the root project directory( where this 
